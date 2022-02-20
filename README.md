@@ -18,5 +18,5 @@
 
 *Схема как baseline. По мере прохождения курса или освоении новых технологий будет перестраиваться. 
 
-
+https://github.com/NatalyS1988/myStudyCourse/blob/master/DE-101%20Modules/02_pic/myDashbord-0.png
 
