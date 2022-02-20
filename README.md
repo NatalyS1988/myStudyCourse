@@ -13,6 +13,9 @@
 | ------ | ------ | ------ |
 | Exel | [DASHBORD](https://github.com/NatalyS1988/myStudyCourse/tree/master/DE-101%20Modules/03_HomeWork_DE_101_Lab_1.1)| Построение динамического отчета
 | diagrams.net | [Shema_1.0.png](https://github.com/NatalyS1988/myStudyCourse/blob/master/DE-101%20Modules/02_pic/Shema_1.0%20(pdf.io).png) | Простая схема* Архитектуры аналического решения
+
+
+
 *Схема как baseline. По мере прохождения курса или освоении новых технологий будет перестраиваться. 
 
 
